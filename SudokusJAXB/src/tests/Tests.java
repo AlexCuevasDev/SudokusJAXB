@@ -155,7 +155,7 @@ class Tests {
 	}
 
 	/**
-	 * Checks if the user has played at least one sudoku
+	 * Checks if the user has played at least one Sudoku
 	 */
 	@Test
 	void userHasPlayed() {
